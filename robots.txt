@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axevuitu.github.io/HoN/sitemap_index.txt.gz
+Sitemap: https://axevuitu.github.io/OGH/sitemap_index.txt.gz
+Sitemap: https://axevuitu.github.io/SJF/sitemap_index.txt.gz
+Sitemap: https://axevuitu.github.io/TIF/sitemap_index.txt.gz
+Sitemap: https://axevuitu.github.io/eZf/sitemap_index.txt.gz
